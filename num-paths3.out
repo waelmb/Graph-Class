@@ -1,0 +1,47 @@
+@1++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+@2
+@3 COMMAND-LINE:
+@4
+@5    ./npaths ladder20.g 
+@6
+@7++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+@ a3 ; npaths=4
+@ b4 ; npaths=8
+@ b3 ; npaths=4
+@ a4 ; npaths=8
+@ a5 ; npaths=16
+@ b5 ; npaths=16
+@ a6 ; npaths=32
+@ b6 ; npaths=32
+@ a7 ; npaths=64
+@ b7 ; npaths=64
+@ a8 ; npaths=128
+@ b8 ; npaths=128
+@ a9 ; npaths=256
+@ b9 ; npaths=256
+@ a1 ; npaths=0
+@ a2 ; npaths=2
+@ b2 ; npaths=2
+@ b1 ; npaths=0
+@ a10 ; npaths=512
+@ b10 ; npaths=512
+@ a11 ; npaths=1024
+@ b11 ; npaths=1024
+@ a12 ; npaths=2048
+@ b12 ; npaths=2048
+@ a13 ; npaths=4096
+@ b13 ; npaths=4096
+@ a14 ; npaths=8192
+@ b14 ; npaths=8192
+@ a15 ; npaths=16384
+@ b15 ; npaths=16384
+@ a16 ; npaths=32768
+@ b16 ; npaths=32768
+@ a17 ; npaths=65536
+@ b17 ; npaths=65536
+@ a18 ; npaths=131072
+@ b18 ; npaths=131072
+@ a19 ; npaths=262144
+@ b19 ; npaths=262144
+@ a20 ; npaths=524288
+@ b20 ; npaths=524288

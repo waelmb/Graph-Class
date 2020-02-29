@@ -1,0 +1,22 @@
+8,11c8,11
+< @ v1 ; npaths=56
+< @ v2 ; npaths=31
+< @ v3 ; npaths=36
+< @ v5 ; npaths=36
+---
+> @ v1 ; npaths=98
+> @ v2 ; npaths=56
+> @ v3 ; npaths=62
+> @ v5 ; npaths=60
+13,14c13,14
+< @ v4 ; npaths=30
+< @ v6 ; npaths=30
+---
+> @ v4 ; npaths=54
+> @ v6 ; npaths=60
+16,17c16,17
+< @ v7 ; npaths=36
+< @ v8 ; npaths=31
+---
+> @ v7 ; npaths=54
+> @ v8 ; npaths=62
